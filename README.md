@@ -8,7 +8,7 @@
 
 ## Assignment Overview
 
-This repository contains the Terraform tutorials completed as part of Assignment 5 – Terraform Fundamentals.
+This repository contains the Terraform tutorials completed of Terraform Fundamentals.
 
 ---
 
