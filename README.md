@@ -1,4 +1,4 @@
-# Terraform Assignment – DevOps Institute Mumbai
+# Terraform Assignment
 
 ## Student Details
 
