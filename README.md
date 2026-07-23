@@ -1,8 +1,4 @@
-# Terraform Assignment
 
-## Student Details
-
-**Name:** Tanaya Beloshe
 
 ---
 
